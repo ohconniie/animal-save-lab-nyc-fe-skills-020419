@@ -11,7 +11,7 @@ html {
 /* Write your solution here */
 @media (max-width: 1196px) {
   #bear {
-  position: absolute;
+  position: fixed;
   top: 100px;
-  right: 0;
+  right: 800px;
 }
